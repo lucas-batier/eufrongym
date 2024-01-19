@@ -1,0 +1,17 @@
+export const MUSCLE_GROUPS = [
+    {"name": "abductors"},
+    {"name": "abs"},
+    {"name": "adductors"},
+    {"name": "back"},
+    {"name": "calve"},
+    {"name": "chest"},
+    {"name": "forearms"},
+    {"name": "glutes"},
+    {"name": "hamstrings"},
+    {"name": "lower_back"},
+    {"name": "neck"},
+    {"name": "quadriceps"},
+    {"name": "shoulders"},
+    {"name": "trapezius"},
+    {"name": "triceps"},
+];
